@@ -18,7 +18,7 @@ This repository serves as my personal **development lab** — a space to explore
 ---
 
 ## 🗂️ Structure  
-Each folder contains a focused project or exercise exploring programming, algorithms, systems, or application development.
+Each folder is dedicated to a specific programming language, containing focused projects and exercises that explore its core concepts 🧠, features ⚙️, and real-world applications 🌍.
 
 ---
 
