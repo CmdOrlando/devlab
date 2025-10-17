@@ -1,43 +1,50 @@
 # ⚡ Zeno's Dev Lab
 
-[![Made with C](https://img.shields.io/badge/Made%20with-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Learning Journey](https://img.shields.io/badge/Status-Learning%20in%20Progress-success.svg)]()
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>)]()
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>?color=blue)]()
 [![Repo Size](https://img.shields.io/github/repo-size/<your-username>/<your-repo>?color=informational)]()
+[![Languages](https://img.shields.io/github/languages/count/<your-username>/<your-repo>?color=orange)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 
 ---
 
-🧠 A collection of my computer science and software development projects  documenting my journey from student to software engineer 🌱
+🧠 A curated collection of my development experiments, builds, and learning projects — chronicling my evolution as a computer science student and full-stack software engineer in the making.
 
 ---
 
 ## 🎯 Purpose  
-This repository serves as my personal **development lab** — a space to prototype ideas, test concepts, and sharpen my engineering discipline through consistent hands-on practice.
+This repository serves as my personal **development lab** — a space to explore concepts, experiment with technologies, and refine my technical and problem-solving skills.
 
 ---
 
 ## 🗂️ Structure  
-Each folder contains a focused project or exercise exploring specific programming principles, algorithms, or system concepts.
+Each folder contains a focused project or exercise exploring programming, algorithms, systems, or application development.
 
 ---
 
 ## 🧰 Tech Stack  
-Currently centered around **C**, with gradual expansion into **Python**, **web technologies**, and **systems programming**.
+Exploring a wide range of technologies — from **low-level systems programming** to **web and software development**.  
+Main areas of focus include:
+- 🧠 Computer Science Fundamentals  
+- ⚙️ Systems & Hardware Concepts  
+- 🌐 Web Development  
+- 🐍 Python & Automation  
+- 💻 Software Engineering Principles  
 
 ---
 
 ## 🚀 Goals  
-- Maintain a disciplined coding routine  
-- Develop deep understanding of computer science fundamentals  
-- Build a strong foundation for advanced software engineering  
+- Build strong fundamentals through hands-on practice  
+- Develop production-quality coding habits  
+- Bridge theory and real-world implementation  
+- Create a portfolio that reflects growth and technical range  
 
 ---
 
 ## 🧾 Notes  
-Some projects are intentionally experimental or incomplete — each one represents an iteration in the learning and mastery process.
+Some projects are prototypes or work-in-progress — every commit is a record of improvement and experimentation.
 
 ---
 
-### 🧠 Growth Mindset  
-> “Every line of code brings me closer to mastery.”
+### 🧠 Mindset  
+> “Mastery isn’t a destination — it’s a continuous compile.”
