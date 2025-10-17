@@ -1,9 +1,9 @@
 # ⚡ Zeno's Dev Lab
 
 [![Learning Journey](https://img.shields.io/badge/Status-Learning%20in%20Progress-success.svg)]()
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>?color=blue)]()
-[![Repo Size](https://img.shields.io/github/repo-size/<your-username>/<your-repo>?color=informational)]()
-[![Languages](https://img.shields.io/github/languages/count/<your-username>/<your-repo>?color=orange)]()
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/CmdOrlando/devlab?color=blue)]()
+[![Repo Size](https://img.shields.io/github/repo-size/CmdOrlando/devlab?color=informational)]()
+[![Languages](https://img.shields.io/github/languages/count/CmdOrlando/devlab?color=orange)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 
 ---
