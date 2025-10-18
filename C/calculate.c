@@ -10,9 +10,9 @@ int main(int argc, char *argv[])
         return 0;
     }
 
-    int x = argv[1];
-    int op = argv[2];
-    int y = argv[3];
+    int x = (int)argv[1];
+    int op = (int)argv[2];
+    int y = (int)argv[3];
 
     if (op == '+')
     {
