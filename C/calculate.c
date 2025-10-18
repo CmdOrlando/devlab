@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
+#include <stdlib.h>
 
 int main(int argc, char *argv[])
 {
@@ -10,23 +11,23 @@ int main(int argc, char *argv[])
         return 0;
     }
 
-    int x = (int)argv[1];
-    int op = (int)argv[2];
-    int y = (int)argv[3];
+    int x = atoi (argv[1]);
+    char op = argv[2][0];
+    int y = atoi (argv[3]);
 
     if (op == '+')
     {
-        printf("%i", x + y);
+        printf("%i\n", x + y);
     }
 
     else if (op == '-')
     {
-        printf("%i", x - y);
+        printf("%i\n", x - y);
     }
 
     else if (op == '*')
     {
-        printf("%i", x * y);
+        printf("%i\n", x * y);
     }
     else if (op == '/')
     {
@@ -36,7 +37,7 @@ int main(int argc, char *argv[])
             return 1;
         }
         else
-            printf("%i", x / y);
+            printf("%f\n", x / (float)y);
     }
 
     else
